@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "title": "Selamun aleykum!",
+    "file": "01_Selamun_Aleykum.sb3",
+    "level": "TEMEL • 1 / 6",
+    "concept": "Yeşil bayrak, komut sırası, sor ve bekle, yanıt, birleştir, söyle.",
+    "how": "Yeşil bayrağa bas. Takma adını yaz ve Enter’a bas.",
+    "task": "Dene: Karşılama cümlesine bir iyi dilek ekle.",
+    "blocks": 11,
+    "sprites": 1
+  },
+  {
+    "no": 2,
+    "title": "Oklarla keşfet",
+    "file": "02_Oklarla_Kesfet.sb3",
+    "level": "TEMEL • 2 / 6",
+    "concept": "Tuş olayı, x-y koordinatları, başlangıç konumu.",
+    "how": "Robotu ok tuşlarıyla hareket ettir.",
+    "task": "Dene: 10 adımı 20 yap. Robot daha mı uzağa gidiyor?",
+    "blocks": 75,
+    "sprites": 1
+  },
+  {
+    "no": 3,
+    "title": "Görev lambası",
+    "file": "03_Gorev_Lambasi.sb3",
+    "level": "TEMEL • 3 / 6",
+    "concept": "Tekrarla, kostüm, bekleme ve tıklama olayı.",
+    "how": "Boşluk: lambayı 4 kez yak. Lambaya tıkla: açıklamayı oku.",
+    "task": "Dene: Tekrar sayısını ve bekleme süresini değiştir.",
+    "blocks": 19,
+    "sprites": 1
+  },
+  {
+    "no": 4,
+    "title": "Okulda bir gezi",
+    "file": "04_Okulda_Bir_Gezi.sb3",
+    "level": "TEMEL • 4 / 6",
+    "concept": "Sürekli, eğer, değiyor mu, haber sal, dekor değiştir.",
+    "how": "Oklarla yürü. Kapıdan sınıfa, bahçeye, kütüphaneye geç.",
+    "task": "Dene: Okul için yeni bir oda ve dekor ekle.",
+    "blocks": 61,
+    "sprites": 2
+  },
+  {
+    "no": 5,
+    "title": "Dört işlem atölyesi",
+    "file": "05_Dort_Islem_Atolyesi.sb3",
+    "level": "TEMEL • 5 / 6",
+    "concept": "Sayı girişi, değişken, düğmeye tıklama, dört işlem ve koşul.",
+    "how": "İki sayı yaz. Hesap makinesinde +, −, × veya ÷ düğmesine tıkla.",
+    "task": "Sayıyı değiştir: 1. sayı / 2. sayı. Yeni hesap: C.",
+    "blocks": 123,
+    "sprites": 8
+  },
+  {
+    "no": 6,
+    "title": "Akıllı trafik lambası",
+    "file": "06_Akilli_Trafik_Lambasi.sb3",
+    "level": "TEMEL • 6 / 6",
+    "concept": "Olaylar, haberleşme, durum ve tekrar eden sıra.",
+    "how": "Yeşil bayrak: başlat. Araç yalnız yeşilde ilerler.",
+    "task": "Dene: Kırmızı ve yeşil ışığın sürelerini değiştir.",
+    "blocks": 31,
+    "sprites": 2
+  },
+  {
+    "no": 7,
+    "title": "Elma toplayan çocuk",
+    "file": "07_Elma_Toplayan_Cocuk.sb3",
+    "level": "ORTA • 1 / 7",
+    "concept": "Rastgele konum, algılama, puan ve can.",
+    "how": "Sağ / sol ok: yürü. 10 elma topla; 5 canın var.",
+    "task": "Dene: Elmanın düşme hızını 4 yerine 6 yap.",
+    "blocks": 55,
+    "sprites": 2
+  },
+  {
+    "no": 8,
+    "title": "Kaçan robotu yakala",
+    "file": "08_Kacan_Robotu_Yakala.sb3",
+    "level": "ORTA • 2 / 7",
+    "concept": "Fare tıklaması, rastgele, süre sayacı, puan.",
+    "how": "20 saniye içinde robota tıkla. Her tıklama 1 puan.",
+    "task": "Dene: Kaçış aralığını 1 saniyeden 0.5 saniyeye indir.",
+    "blocks": 33,
+    "sprites": 1
+  },
+  {
+    "no": 9,
+    "title": "Anahtarlı labirent",
+    "file": "09_Anahtarli_Labirent.sb3",
+    "level": "ORTA • 3 / 7",
+    "concept": "Renge değme, çarpışmayı geri alma, anahtar koşulu.",
+    "how": "Oklarla ilerle. Anahtarı al, sağ üstteki kapıya ulaş.",
+    "task": "Dene: Duvar rengini değiştirirsen algılama rengini de değiştir.",
+    "blocks": 51,
+    "sprites": 3
+  },
+  {
+    "no": 10,
+    "title": "İki kişilik araba yarışı",
+    "file": "10_Iki_Kisilik_Araba_Yarisi.sb3",
+    "level": "ORTA • 4 / 7",
+    "concept": "İki oyuncu, çarpışma, tur, ortak oyun durumu.",
+    "how": "Mavi: W A S D  |  Mercan: oklar  |  İlk 3 tur kazanır.",
+    "task": "Konilere çarpınca geri gidersin. Yeşil bayrak: yeni yarış.",
+    "blocks": 126,
+    "sprites": 6
+  },
+  {
+    "no": 11,
+    "title": "İki kişilik pinpon",
+    "file": "11_Iki_Kisilik_Pinpon.sb3",
+    "level": "ORTA • 5 / 7",
+    "concept": "x-y hızı, sekme, ve koşulu, skor ve servis.",
+    "how": "Sol: W / S  |  Sağ: yukarı / aşağı  |  İlk 5 sayı kazanır.",
+    "task": "Dene: Topun yatay hızını 5 yerine 7 yap.",
+    "blocks": 101,
+    "sprites": 3
+  },
+  {
+    "no": 12,
+    "title": "Uçuş okulu",
+    "file": "12_Ucus_Okulu.sb3",
+    "level": "ORTA • 6 / 7",
+    "concept": "Sürekli tuş kontrolü, rastgele engel, hasar beklemesi.",
+    "how": "Oklarla uç. 10 yıldız topla, fırtına bulutundan kaç.",
+    "task": "3 canın var. Buluta değince kısa süre korunursun.",
+    "blocks": 117,
+    "sprites": 3
+  },
+  {
+    "no": 13,
+    "title": "Akıllı sera",
+    "file": "13_Akilli_Sera.sb3",
+    "level": "ORTA • 7 / 7",
+    "concept": "Sensör benzetimi, eşik, eğer-değilse, geri bildirim.",
+    "how": "Güneş: toprağı kurut. Yağmur: su ekle. A: otomatik.",
+    "task": "Bitkiye tıkla: Subhanallah! Bitkileri birlikte gözlemleyelim.",
+    "blocks": 47,
+    "sprites": 3
+  },
+  {
+    "no": 14,
+    "title": "Robotun hafızası",
+    "file": "14_Robotun_Hafizasi.sb3",
+    "level": "İLERİ • 1 / 2",
+    "concept": "Liste, sıra numarası, haberleşme, durum, özel blok.",
+    "how": "Renk sırasını izle, aynı sırayla düğmelere tıkla.",
+    "task": "Her tur bir renk eklenir. 6 turu bitir, hafıza ustası ol.",
+    "blocks": 156,
+    "sprites": 5
+  },
+  {
+    "no": 15,
+    "title": "Uzay kurtarma görevi",
+    "file": "15_Uzay_Kurtarma_Gorevi.sb3",
+    "level": "İLERİ • 2 / 2",
+    "concept": "İkiz oluşturma, özel blok, değişen zorluk, bölüm ve can.",
+    "how": "Oklarla uç. Enerjiye dokun, meteordan kaç. 15 enerji topla.",
+    "task": "3 can • 5 ve 10 enerjide zorluk artar • Bayrak: yeniden başla",
+    "blocks": 148,
+    "sprites": 3
+  },
+  {
+    "no": 16,
+    "title": "Selamlaşma atölyesi",
+    "file": "16_Selamlasma_Atolyesi.sb3",
+    "level": "EK • TEMEL",
+    "concept": "Sor ve bekle, yanıtı sakla, birleştir ve koşul.",
+    "how": "Adını yaz. Selama karşılık veren seçeneğin numarasını gir.",
+    "task": "Dene: Karşılama cümlesine güzel bir dilek ekle.",
+    "blocks": 19,
+    "sprites": 1
+  },
+  {
+    "no": 17,
+    "title": "Besmele ve sofra adabı",
+    "file": "17_Besmele_ve_Sofra_Adabi.sb3",
+    "level": "EK • TEMEL",
+    "concept": "Olay, sıra, koşul, değişken ve haberleşme.",
+    "how": "Kartlara sırayla tıkla: besmele, ölçülü al, şükret.",
+    "task": "Dene: Sofra hazırlamaya yardım etmeyi dördüncü adım yap.",
+    "blocks": 58,
+    "sprites": 4
+  },
+  {
+    "no": 18,
+    "title": "Paylaşma sepeti",
+    "file": "18_Paylasma_Sepeti.sb3",
+    "level": "EK • ORTA",
+    "concept": "Taşınan miktar, kapasite, temas ve teslim koşulu.",
+    "how": "Oklarla 3 elma topla, sağdaki sepete götür. 2 sepet hazırla.",
+    "task": "Dene: Sepetin kapasitesini değiştir; gereken elmaları hesapla.",
+    "blocks": 77,
+    "sprites": 3
+  },
+  {
+    "no": 19,
+    "title": "Suyu koruyan robot",
+    "file": "19_Suyu_Koruyan_Robot.sb3",
+    "level": "EK • ORTA",
+    "concept": "İhtiyaç sensörü benzetimi, durum, sayaç ve zaman.",
+    "how": "Musluğa tıklayarak aç / kapat. İhtiyaç bitince kapat.",
+    "task": "15 saniyelik görev: ihtiyaç varken suyu aç, yokken kapat.",
+    "blocks": 69,
+    "sprites": 3
+  },
+  {
+    "no": 20,
+    "title": "Güzel ahlak seçimleri",
+    "file": "20_Guzel_Ahlak_Secimleri.sb3",
+    "level": "EK • ORTA",
+    "concept": "Listeler, soru sırası, karşılaştırma ve geri bildirim.",
+    "how": "Soruları oku. 1 veya 2 yaz. Açıklamaları birlikte konuşun.",
+    "task": "Dene: Listeye yeni bir günlük hayat sorusu ekle.",
+    "blocks": 25,
+    "sprites": 1
+  }
+]

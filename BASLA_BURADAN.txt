@@ -1,0 +1,130 @@
+Robotist: Eğlen, Öğren, Keşfet!
+20 SCRATCH PROJESİ — GÜNCELLENMİŞ SÜRÜM
+
+Scratch 3 > Dosya > Bilgisayarından yükle > .sb3 dosyasını seç.
+Yeşil bayrak başlatır ve oyunu sıfırlar. Kırmızı düğme durdurur.
+Görsel ders rehberi: BASLA_BURADAN.html
+Önerilen sıra: 01, 16, 02, 03, 17, 04, 05, 06, 07, 18, 08, 09, 10, 11, 12, 13, 19, 20, 14, 15
+
+01. Selamun aleykum! — TEMEL • 1 / 6
+Dosya: 01_Selamun_Aleykum.sb3
+Öğren: Yeşil bayrak, komut sırası, sor ve bekle, yanıt, birleştir, söyle.
+Oyna: Yeşil bayrağa bas. Takma adını yaz ve Enter’a bas.
+Dene: Karşılama cümlesine bir iyi dilek ekle.
+
+02. Oklarla keşfet — TEMEL • 2 / 6
+Dosya: 02_Oklarla_Kesfet.sb3
+Öğren: Tuş olayı, x-y koordinatları, başlangıç konumu.
+Oyna: Robotu ok tuşlarıyla hareket ettir.
+Dene: 10 adımı 20 yap. Robot daha mı uzağa gidiyor?
+
+03. Görev lambası — TEMEL • 3 / 6
+Dosya: 03_Gorev_Lambasi.sb3
+Öğren: Tekrarla, kostüm, bekleme ve tıklama olayı.
+Oyna: Boşluk: lambayı 4 kez yak. Lambaya tıkla: açıklamayı oku.
+Dene: Tekrar sayısını ve bekleme süresini değiştir.
+
+04. Okulda bir gezi — TEMEL • 4 / 6
+Dosya: 04_Okulda_Bir_Gezi.sb3
+Öğren: Sürekli, eğer, değiyor mu, haber sal, dekor değiştir.
+Oyna: Oklarla yürü. Kapıdan sınıfa, bahçeye, kütüphaneye geç.
+Dene: Okul için yeni bir oda ve dekor ekle.
+
+05. Dört işlem atölyesi — TEMEL • 5 / 6
+Dosya: 05_Dort_Islem_Atolyesi.sb3
+Öğren: Sayı girişi, değişken, düğmeye tıklama, dört işlem ve koşul.
+Oyna: İki sayı yaz. Hesap makinesinde +, −, × veya ÷ düğmesine tıkla.
+Sayıyı değiştir: 1. sayı / 2. sayı. Yeni hesap: C.
+
+06. Akıllı trafik lambası — TEMEL • 6 / 6
+Dosya: 06_Akilli_Trafik_Lambasi.sb3
+Öğren: Olaylar, haberleşme, durum ve tekrar eden sıra.
+Oyna: Yeşil bayrak: başlat. Araç yalnız yeşilde ilerler.
+Dene: Kırmızı ve yeşil ışığın sürelerini değiştir.
+
+07. Elma toplayan çocuk — ORTA • 1 / 7
+Dosya: 07_Elma_Toplayan_Cocuk.sb3
+Öğren: Rastgele konum, algılama, puan ve can.
+Oyna: Sağ / sol ok: yürü. 10 elma topla; 5 canın var.
+Dene: Elmanın düşme hızını 4 yerine 6 yap.
+
+08. Kaçan robotu yakala — ORTA • 2 / 7
+Dosya: 08_Kacan_Robotu_Yakala.sb3
+Öğren: Fare tıklaması, rastgele, süre sayacı, puan.
+Oyna: 20 saniye içinde robota tıkla. Her tıklama 1 puan.
+Dene: Kaçış aralığını 1 saniyeden 0.5 saniyeye indir.
+
+09. Anahtarlı labirent — ORTA • 3 / 7
+Dosya: 09_Anahtarli_Labirent.sb3
+Öğren: Renge değme, çarpışmayı geri alma, anahtar koşulu.
+Oyna: Oklarla ilerle. Anahtarı al, sağ üstteki kapıya ulaş.
+Dene: Duvar rengini değiştirirsen algılama rengini de değiştir.
+
+10. İki kişilik araba yarışı — ORTA • 4 / 7
+Dosya: 10_Iki_Kisilik_Araba_Yarisi.sb3
+Öğren: İki oyuncu, çarpışma, tur, ortak oyun durumu.
+Oyna: Mavi: W A S D  |  Mercan: oklar  |  İlk 3 tur kazanır.
+Konilere çarpınca geri gidersin. Yeşil bayrak: yeni yarış.
+
+11. İki kişilik pinpon — ORTA • 5 / 7
+Dosya: 11_Iki_Kisilik_Pinpon.sb3
+Öğren: x-y hızı, sekme, ve koşulu, skor ve servis.
+Oyna: Sol: W / S  |  Sağ: yukarı / aşağı  |  İlk 5 sayı kazanır.
+Dene: Topun yatay hızını 5 yerine 7 yap.
+
+12. Uçuş okulu — ORTA • 6 / 7
+Dosya: 12_Ucus_Okulu.sb3
+Öğren: Sürekli tuş kontrolü, rastgele engel, hasar beklemesi.
+Oyna: Oklarla uç. 10 yıldız topla, fırtına bulutundan kaç.
+3 canın var. Buluta değince kısa süre korunursun.
+
+13. Akıllı sera — ORTA • 7 / 7
+Dosya: 13_Akilli_Sera.sb3
+Öğren: Sensör benzetimi, eşik, eğer-değilse, geri bildirim.
+Oyna: Güneş: toprağı kurut. Yağmur: su ekle. A: otomatik.
+Bitkiye tıkla: Subhanallah! Bitkileri birlikte gözlemleyelim.
+
+14. Robotun hafızası — İLERİ • 1 / 2
+Dosya: 14_Robotun_Hafizasi.sb3
+Öğren: Liste, sıra numarası, haberleşme, durum, özel blok.
+Oyna: Renk sırasını izle, aynı sırayla düğmelere tıkla.
+Her tur bir renk eklenir. 6 turu bitir, hafıza ustası ol.
+
+15. Uzay kurtarma görevi — İLERİ • 2 / 2
+Dosya: 15_Uzay_Kurtarma_Gorevi.sb3
+Öğren: İkiz oluşturma, özel blok, değişen zorluk, bölüm ve can.
+Oyna: Oklarla uç. Enerjiye dokun, meteordan kaç. 15 enerji topla.
+3 can • 5 ve 10 enerjide zorluk artar • Bayrak: yeniden başla
+
+16. Selamlaşma atölyesi — EK • TEMEL
+Dosya: 16_Selamlasma_Atolyesi.sb3
+Öğren: Sor ve bekle, yanıtı sakla, birleştir ve koşul.
+Oyna: Adını yaz. Selama karşılık veren seçeneğin numarasını gir.
+Dene: Karşılama cümlesine güzel bir dilek ekle.
+
+17. Besmele ve sofra adabı — EK • TEMEL
+Dosya: 17_Besmele_ve_Sofra_Adabi.sb3
+Öğren: Olay, sıra, koşul, değişken ve haberleşme.
+Oyna: Kartlara sırayla tıkla: besmele, ölçülü al, şükret.
+Dene: Sofra hazırlamaya yardım etmeyi dördüncü adım yap.
+
+18. Paylaşma sepeti — EK • ORTA
+Dosya: 18_Paylasma_Sepeti.sb3
+Öğren: Taşınan miktar, kapasite, temas ve teslim koşulu.
+Oyna: Oklarla 3 elma topla, sağdaki sepete götür. 2 sepet hazırla.
+Dene: Sepetin kapasitesini değiştir; gereken elmaları hesapla.
+
+19. Suyu koruyan robot — EK • ORTA
+Dosya: 19_Suyu_Koruyan_Robot.sb3
+Öğren: İhtiyaç sensörü benzetimi, durum, sayaç ve zaman.
+Oyna: Musluğa tıklayarak aç / kapat. İhtiyaç bitince kapat.
+15 saniyelik görev: ihtiyaç varken suyu aç, yokken kapat.
+
+20. Güzel ahlak seçimleri — EK • ORTA
+Dosya: 20_Guzel_Ahlak_Secimleri.sb3
+Öğren: Listeler, soru sırası, karşılaştırma ve geri bildirim.
+Oyna: Soruları oku. 1 veya 2 yaz. Açıklamaları birlikte konuşun.
+Dene: Listeye yeni bir günlük hayat sorusu ekle.
+
+Sera, trafik ve su projeleri simülasyondur.
+Selamun aleykum, Subhanallah, Elhamdulillah, Maşallah ve Estağfirullah ifadeleri ilgili bağlamlarda kullanılır.
