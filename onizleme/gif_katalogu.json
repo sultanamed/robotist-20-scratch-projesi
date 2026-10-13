@@ -1,0 +1,262 @@
+[
+  {
+    "file": "01_Selamun_Aleykum.sb3",
+    "gif": "onizleme/01_Selamun_Aleykum.gif",
+    "frames": 4,
+    "duration_ms": 9800,
+    "bytes": 216493,
+    "steps": [
+      "Yeşil bayrak: Robotist selam veriyor.",
+      "Robotist bir takma ad soruyor.",
+      "Yanıt, karşılama cümlesine ekleniyor.",
+      "Robotist ilerliyor; ilk program hazır!"
+    ]
+  },
+  {
+    "file": "02_Oklarla_Kesfet.sb3",
+    "gif": "onizleme/02_Oklarla_Kesfet.gif",
+    "frames": 4,
+    "duration_ms": 9800,
+    "bytes": 165397,
+    "steps": [
+      "Robot başlangıç noktasında.",
+      "Sağ ok: x konumu artıyor.",
+      "Yukarı ok: y konumu artıyor.",
+      "Sol ok: robot sola ilerliyor."
+    ]
+  },
+  {
+    "file": "03_Gorev_Lambasi.sb3",
+    "gif": "onizleme/03_Gorev_Lambasi.gif",
+    "frames": 4,
+    "duration_ms": 9800,
+    "bytes": 163755,
+    "steps": [
+      "Lamba kapalı; boşluk tuşunu bekliyor.",
+      "Tekrar döngüsü lambayı yakıyor.",
+      "Bekle bloğundan sonra lamba sönüyor.",
+      "Dört tekrar tamamlandı!"
+    ]
+  },
+  {
+    "file": "04_Okulda_Bir_Gezi.sb3",
+    "gif": "onizleme/04_Okulda_Bir_Gezi.gif",
+    "frames": 4,
+    "duration_ms": 9800,
+    "bytes": 157420,
+    "steps": [
+      "Sınıfta başlıyoruz.",
+      "Sağ okla kapıya ilerliyoruz.",
+      "Kapıya değince dekor bahçe oluyor.",
+      "Bir sonraki kapı: kütüphane."
+    ]
+  },
+  {
+    "file": "05_Dort_Islem_Atolyesi.sb3",
+    "gif": "onizleme/05_Dort_Islem_Atolyesi.gif",
+    "frames": 4,
+    "duration_ms": 9800,
+    "bytes": 230531,
+    "steps": [
+      "8 + 2 = 10 · Sonuç ekranda!",
+      "8 − 2 = 6 · Sonuç ekranda!",
+      "8 × 2 = 16 · Sonuç ekranda!",
+      "8 ÷ 2 = 4 · Sonuç ekranda!"
+    ]
+  },
+  {
+    "file": "06_Akilli_Trafik_Lambasi.sb3",
+    "gif": "onizleme/06_Akilli_Trafik_Lambasi.gif",
+    "frames": 4,
+    "duration_ms": 9800,
+    "bytes": 155214,
+    "steps": [
+      "Kırmızı ışık: araç bekliyor.",
+      "Sarı ışık: hazırlanıyoruz.",
+      "Yeşil ışık: araç ilerliyor.",
+      "Araç yalnız izin varken yol alıyor."
+    ]
+  },
+  {
+    "file": "07_Elma_Toplayan_Cocuk.sb3",
+    "gif": "onizleme/07_Elma_Toplayan_Cocuk.gif",
+    "frames": 4,
+    "duration_ms": 9800,
+    "bytes": 150611,
+    "steps": [
+      "Elma düşüyor; oklarla altına gidelim.",
+      "1 elma toplandı; sayaç artıyor.",
+      "2 elma toplandı; sayaç artıyor.",
+      "3 elma toplandı; sayaç artıyor."
+    ]
+  },
+  {
+    "file": "08_Kacan_Robotu_Yakala.sb3",
+    "gif": "onizleme/08_Kacan_Robotu_Yakala.gif",
+    "frames": 4,
+    "duration_ms": 9800,
+    "bytes": 177219,
+    "steps": [
+      "20 saniyelik yakalama oyunu başlıyor.",
+      "Robota tıkla: 1 puan! Yeni konuma geçti.",
+      "Robota tıkla: 2 puan! Yeni konuma geçti.",
+      "Robota tıkla: 3 puan! Yeni konuma geçti."
+    ]
+  },
+  {
+    "file": "09_Anahtarli_Labirent.sb3",
+    "gif": "onizleme/09_Anahtarli_Labirent.gif",
+    "frames": 4,
+    "duration_ms": 9800,
+    "bytes": 145645,
+    "steps": [
+      "Anahtarı alıp çıkışı açacağız.",
+      "İlk duvarın altından geçiyoruz.",
+      "Anahtar alındı; kapı açılabilir.",
+      "Anahtarla çıkışa ulaştık!"
+    ]
+  },
+  {
+    "file": "10_Iki_Kisilik_Araba_Yarisi.sb3",
+    "gif": "onizleme/10_Iki_Kisilik_Araba_Yarisi.gif",
+    "frames": 4,
+    "duration_ms": 9800,
+    "bytes": 156700,
+    "steps": [
+      "İki oyuncu kendi tuşlarıyla yarışıyor.",
+      "W ve yukarı ok: iki araba ilerliyor.",
+      "Arabalar ayrı ayrı kontrol ediliyor.",
+      "Mavi araba ilk turu tamamlıyor."
+    ]
+  },
+  {
+    "file": "11_Iki_Kisilik_Pinpon.sb3",
+    "gif": "onizleme/11_Iki_Kisilik_Pinpon.gif",
+    "frames": 4,
+    "duration_ms": 9800,
+    "bytes": 140073,
+    "steps": [
+      "Servis yapıldı; top oyunda.",
+      "Sağ oyuncu raketini yukarı taşıyor.",
+      "Top kenardan sekiyor; raketleri takip et.",
+      "Top raketi geçince skor değişiyor."
+    ]
+  },
+  {
+    "file": "12_Ucus_Okulu.sb3",
+    "gif": "onizleme/12_Ucus_Okulu.gif",
+    "frames": 4,
+    "duration_ms": 9800,
+    "bytes": 132238,
+    "steps": [
+      "Oklarla uç; yıldızı yakala.",
+      "Uçak sağa gidiyor; bulut aşağı süzülüyor.",
+      "Sola dönüp fırtınadan uzaklaşıyoruz.",
+      "Yukarı okla uçuşa devam!"
+    ]
+  },
+  {
+    "file": "13_Akilli_Sera.sb3",
+    "gif": "onizleme/13_Akilli_Sera.gif",
+    "frames": 4,
+    "duration_ms": 9800,
+    "bytes": 166152,
+    "steps": [
+      "Nem yeterli; pompa kapalı.",
+      "Toprak kuruyunca otomatik sulama başlıyor.",
+      "Nem yükseldi; pompa kendiliğinden durdu.",
+      "Bitkiye tıkla: Subhanallah!"
+    ]
+  },
+  {
+    "file": "14_Robotun_Hafizasi.sb3",
+    "gif": "onizleme/14_Robotun_Hafizasi.gif",
+    "frames": 4,
+    "duration_ms": 9800,
+    "bytes": 167956,
+    "steps": [
+      "İzle: sıradaki renk parlıyor.",
+      "Şimdi aynı renge tıklama sırası sende.",
+      "Doğru renk! Yeni tur hazırlanıyor.",
+      "İkinci tur: hatırlanacak iki renk var."
+    ]
+  },
+  {
+    "file": "15_Uzay_Kurtarma_Gorevi.sb3",
+    "gif": "onizleme/15_Uzay_Kurtarma_Gorevi.gif",
+    "frames": 4,
+    "duration_ms": 9800,
+    "bytes": 153993,
+    "steps": [
+      "Enerjiyi topla; meteorlardan kaç.",
+      "Sağ okla kurtarma gemisini yönlendir.",
+      "Meteorlar ikizler olarak sahneye geliyor.",
+      "Hareket et, tehlikelerden uzak dur!"
+    ]
+  },
+  {
+    "file": "16_Selamlasma_Atolyesi.sb3",
+    "gif": "onizleme/16_Selamlasma_Atolyesi.gif",
+    "frames": 4,
+    "duration_ms": 9800,
+    "bytes": 188000,
+    "steps": [
+      "Selamlaşma için bir takma ad giriyoruz.",
+      "Robotist isminle selam veriyor.",
+      "Selama karşılık veren seçeneği bul.",
+      "Aleykum selam! Güzel dileklerle tanıştık."
+    ]
+  },
+  {
+    "file": "17_Besmele_ve_Sofra_Adabi.sb3",
+    "gif": "onizleme/17_Besmele_ve_Sofra_Adabi.gif",
+    "frames": 4,
+    "duration_ms": 9800,
+    "bytes": 224011,
+    "steps": [
+      "Kartları doğru sırayla seçelim.",
+      "1. adım: yemeğe besmeleyle başla.",
+      "2. adım: yiyebileceğin kadar al.",
+      "3. adım: Elhamdulillah, şükredelim."
+    ]
+  },
+  {
+    "file": "18_Paylasma_Sepeti.sb3",
+    "gif": "onizleme/18_Paylasma_Sepeti.gif",
+    "frames": 4,
+    "duration_ms": 9800,
+    "bytes": 184775,
+    "steps": [
+      "Elmaları toplayıp paylaşma sepetine götür.",
+      "1 elma taşıyoruz; sepet kapasitesi 3.",
+      "3 elma taşıyoruz; sepet kapasitesi 3.",
+      "İlk sepet hazır! Paylaşmak ne güzel."
+    ]
+  },
+  {
+    "file": "19_Suyu_Koruyan_Robot.sb3",
+    "gif": "onizleme/19_Suyu_Koruyan_Robot.gif",
+    "frames": 4,
+    "duration_ms": 9800,
+    "bytes": 195282,
+    "steps": [
+      "İhtiyaç var; musluğu açalım.",
+      "Su yalnız ihtiyaç için akıyor.",
+      "İhtiyaç bitti; musluğu kapattık.",
+      "Görev tamam: boşa akan su yok."
+    ]
+  },
+  {
+    "file": "20_Guzel_Ahlak_Secimleri.sb3",
+    "gif": "onizleme/20_Guzel_Ahlak_Secimleri.gif",
+    "frames": 4,
+    "duration_ms": 9800,
+    "bytes": 220013,
+    "steps": [
+      "Soruyu oku; güzel davranışı seç.",
+      "Doğru seçim: eşyayı sahibine ulaştır.",
+      "Yeni soru: arkadaşına nasıl yardım edersin?",
+      "Paylaşmayı seçtik; ikinci soru tamam!"
+    ]
+  }
+]

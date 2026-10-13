@@ -57,3 +57,11 @@ Aşağıdaki sıra kolaydan zora önerilen çalışma sırasıdır; dosya numara
 ![20 projenin sahne önizlemeleri](onizleme/20_Proje_Genel_Gorunum.png)
 
 Trafik, sera ve su etkinlikleri birer simülasyondur. Görseller sahne önizlemeleridir. Robotist logosu ve robot maskotu eğitim setinin parçasıdır.
+
+## Hareketli oyun önizlemeleri
+
+20 projenin her biri için 4 karelik, 9,8 saniyelik GIF bulunur. Sayfadaki önizlemeler yalnız görünürken oynar; durdurma düğmesi ve azaltılmış hareket tercihi desteklenir. Her karenin altında ne olduğunu açıklayan kısa bir cümle vardır.
+
+Kareler, Scratch VM 5.0.300 üzerinde kullanıcı girdileriyle çalıştırılan projelerin gerçek konum, kostüm, konuşma ve değişken durumlarından özgün proje varlıklarıyla çizildi. Bu bir ekran kaydı değildir. Zaman sanallaştırılmış, temas algılaması kostüm sınırlarıyla hesaplanmıştır. Gösterilen işlemler ve puanlar proje kodu tarafından üretilir. GIF dosyaları `onizleme/` içinde; kare açıklamaları `onizleme/gif_katalogu.json` dosyasındadır.
+
+[Robotist ana sayfa](https://robotist.fun/)
