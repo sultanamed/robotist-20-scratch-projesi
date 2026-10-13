@@ -4,22 +4,20 @@
 
 Çocuklar için **20 düzenlenebilir Scratch projesi**: 8 temel, 10 orta ve 2 ileri seviye etkinlik.
 
-## 20 projeyi indir
+## Görselden seç, tek tek indir
 
-### [⬇️ Tüm projeleri tek ZIP olarak indir](https://github.com/sultanamed/robotist-20-scratch-projesi/releases/latest/download/Robotist_20_Scratch_Projesi.zip)
+### [Projeleri gör ve Scratch dosyanı indir](https://sultanamed.github.io/robotist-20-scratch-projesi/)
 
-İndirmek için GitHub hesabı gerekmez. Paket; 20 Scratch dosyası, Türkçe kullanım rehberi ve görselleri içerir.
+Her proje kartında sahne görseli, seviye, öğrenilecek konular, oynama açıklaması ve **Scratch dosyasını indir** düğmesi var. Her indirme yalnızca seçilen **.sb3** dosyasıdır. GitHub hesabı gerekmez.
 
 ## Nasıl açarım?
 
-1. ZIP dosyasını indir ve **tümünü çıkar**.
+1. İstediğin projenin **Scratch dosyasını indir** düğmesine bas.
 2. [Scratch editörünü](https://scratch.mit.edu/projects/editor/) veya bilgisayarındaki Scratch 3 uygulamasını aç.
-3. **Dosya → Bilgisayarından yükle** seçeneğine bas ve bir `.sb3` dosyası seç.
+3. **Dosya → Bilgisayarından yükle** seçeneğine bas ve indirdiğin `.sb3` dosyasını seç.
 4. **Yeşil bayrağa** tıkla. Oyna, blokları incele, bir şeyi değiştir ve yeniden dene!
 
-İlk kez başlıyorsan **01 - Selamun aleykum!** projesini seç. İsim sorusunda bir takma ad yazabilirsin. ZIP içindeki **BASLA_BURADAN.html** dosyası, her projenin nasıl oynandığını ve ne öğrettiğini anlatır.
-
-Scratch 3 masaüstü uygulamasıyla projeler çevrimdışı kullanılabilir. Kamera, mikrofon veya robot donanımı gerekmez.
+İlk kez başlıyorsan **01 - Selamun aleykum!** projesini seç. İsim sorusunda bir takma ad yazabilirsin. Scratch 3 masaüstü uygulamasıyla projeler çevrimdışı kullanılabilir. Kamera, mikrofon veya robot donanımı gerekmez.
 
 ## Projeler
 
